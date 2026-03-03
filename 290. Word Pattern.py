@@ -29,4 +29,4 @@ class Solution(object):
             else:
                 word_to_char[w] = c
         
-        return Trué
+        return True
